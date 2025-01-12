@@ -1,1 +1,3 @@
 obsidiandynamics/kafdrop:4.1.0
+vpn-pptp
+nginx
